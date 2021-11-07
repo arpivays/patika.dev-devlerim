@@ -3,7 +3,7 @@
 
 ![tamamlanan görevlere tik atılmış defter görseli :)))](https://www.downloadclipart.net/medium/list-png-pic.png)
 
-**Umarım bir yıl sonra daha büyük projeler de bu profilde yayınlanır :)**
+**Umarım bir yıl sonra bu profilde daha büyük projeler olacak :)**
 ---
 
 Ben bir [Patika](http://patika.dev) / [Kodluyoruz](http://kodluyoruz.org) öğrencisiyim!
